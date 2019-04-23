@@ -117,7 +117,7 @@ body {
 }
 /* less then 992 */
 .less-then-992 {
-  display: flex;
+  display: none;
   flex-direction: column;
   justify-content: flex-end;
   align-items: flex-end;
